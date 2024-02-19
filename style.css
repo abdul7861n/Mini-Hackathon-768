@@ -5,6 +5,9 @@
     text-decoration: none;
     list-style-type: none;
 }
+body {
+    background-color:#ddd !important;
+}
 h1,h2,h3{
     font-family:"Roboto Slab", serif;
 }
@@ -13,7 +16,4 @@ p{
 }
 a{
     font-family: "Roboto Slab", serif;
-}
-body {
-    background-color: #ddd;
 }
